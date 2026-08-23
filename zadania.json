@@ -1,0 +1,22 @@
+[
+  {
+    "tekst": "kupic mleko",
+    "wykonane": true
+  },
+  {
+    "tekst": "kupic mleko",
+    "wykonane": true
+  },
+  {
+    "tekst": "zadzwonic do lekarza",
+    "wykonane": false
+  },
+  {
+    "tekst": "zadzwon do sklepu",
+    "wykonane": true
+  },
+  {
+    "tekst": "4",
+    "wykonane": false
+  }
+]
